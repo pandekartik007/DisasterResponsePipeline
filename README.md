@@ -4,7 +4,7 @@
 
 This project is donw using Python 3.7
 - pandas
-- numoy
+- numpy
 - sqlalchemy
 - nltk
 - sklearn
